@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="GreenActionBarTheme"
+           parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/GreenAction</item>
+       
+  
+    </style>
+
+    <!-- ActionBar styles -->
+    <style name="GreenAction"
+           parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">#043960</item>
+   <item name="android:displayOptions">showTitle</item>
+      </style>
+      <!--#4169e1  -->
+</resources>

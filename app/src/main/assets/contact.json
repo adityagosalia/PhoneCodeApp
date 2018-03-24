@@ -1,0 +1,34 @@
+{
+  "Details": [
+    {
+      "deptDetails": "Tahisildar",
+      "deptName": "Zee TV",
+      "landline": 26597640,
+      "mobileNo": 101
+    },
+    {
+      "deptDetails": "Tahisildar",
+      "deptName": "Star Plus",
+      "landline": 26597640,
+      "mobileNo": 102
+    },
+    {
+      "deptDetails": "Tahisildar",
+      "deptName": "Colors",
+      "landline": 26597640,
+      "mobileNo": 103
+    },
+    {
+      "deptDetails": "Tahisildar",
+      "deptName": "Sony",
+      "landline": 26597640,
+      "mobileNo": 104
+    },
+    {
+      "deptDetails": "Tahisildar",
+      "deptName": "Star Gold",
+      "landline": 26597640,
+      "mobileNo": 105
+    }
+  ]
+}
